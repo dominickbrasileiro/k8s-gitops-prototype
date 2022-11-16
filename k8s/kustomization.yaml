@@ -11,4 +11,4 @@ namespace: goserver
 images:
 - name: goserver
   newName: dominickbrasileiro/k8s-gitops-prototype
-  newTag: 60d96d8091f2c9394a097a0a0c71d9249f3f3466
+  newTag: fdc8ce49e683aaaa58c1a76317d1456cf05791e2
