@@ -9,4 +9,4 @@ spec:
   ports:
   - port: 4040
     targetPort: 4040
-    nodePort: 4040
+    nodePort: 32400
