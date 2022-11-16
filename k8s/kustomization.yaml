@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: dominickbrasileiro/k8s-gitops-prototype
-  newTag: gitSHA
+  newTag: bae8539e8e8b144c2f46961f4c9ee45cc1437698
