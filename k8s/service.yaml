@@ -7,6 +7,6 @@ spec:
   selector:
     app: goserver
   ports:
-  - port: 8080
-    targetPort: 8080
-    nodePort: 8080
+  - port: 4040
+    targetPort: 4040
+    nodePort: 4040
